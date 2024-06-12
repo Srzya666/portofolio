@@ -236,8 +236,9 @@ nav ul li a {
   border-radius: 0.5rem;
 }
 
-.service-icon svg {
-  fill: var(--primaryIconColor);
+.service-icon .skill {
+  color: var(--primaryIconColor);
+  font-size: 25px;
 }
 
 .service-icon {
@@ -248,8 +249,8 @@ nav ul li a {
   border-radius: 0.5rem;
 }
 
-.service-icon svg {
-  fill: var(--primaryIconColor);
+.service-icon .skill {
+  color: var(--primaryIconColor);
 }
 
 /* Portfolios */
